@@ -3,4 +3,4 @@ xrandr --output DP-0 --auto --right-of DP-2 --rotate left
 
 exec dwm
 
-feh --bg-scale ~/Pictures/wallpaper/beachfront.png
+feh --bg-fill ~/Pictures/wallpaper/beachfront.png
