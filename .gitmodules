@@ -1,9 +1,14 @@
 [submodule "dwm"]
 	path = dwm
 	url = https://github.com/tomisnhamilton/dwm.git
+	branch = main
+
 [submodule "dmenu"]
 	path = dmenu
 	url = https://github.com/tomisnhamilton/dmenu.git
+	branch = main
+
 [submodule "st"]
 	path = st
 	url = https://github.com/tomisnhamilton/st.git
+	branch = main
