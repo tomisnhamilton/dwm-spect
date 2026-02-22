@@ -3,7 +3,7 @@
 	url = https://github.com/tomisnhamilton/dwm.git
 [submodule "dmenu"]
 	path = dmenu
-	url = https://git.suckless.org/dmenu
+	url = https://github.com/tomisnhamilton/dmenu.git
 [submodule "st"]
 	path = st
-	url = https://git.suckless.org/st
+	url = https://github.com/tomisnhamilton/st.git
