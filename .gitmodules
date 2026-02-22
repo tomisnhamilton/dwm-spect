@@ -12,3 +12,6 @@
 	path = st
 	url = https://github.com/tomisnhamilton/st.git
 	branch = main
+[submodule "dwmblocks-async"]
+	path = dwmblocks-async
+	url = https://github.com/tomisnhamilton/dwmblocks-async
