@@ -15,3 +15,6 @@
 [submodule "dwmblocks-async"]
 	path = dwmblocks-async
 	url = https://github.com/tomisnhamilton/dwmblocks-async
+[submodule "slock"]
+	path = slock
+	url = https://github.com/tomisnhamilton/slock
