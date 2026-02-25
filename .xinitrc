@@ -4,5 +4,6 @@ seanime &
 picom &
 dunst &
 feh --bg-fill ~/Pictures/wallpaper/beachfront.png
+wal -i ~/Pictures/wallpaper/beachfront.png
 dwmblocks &
 exec dwm
